@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Aman Desai</h1>
 <h3 align="center">Software Developer, Cloud Enthusiast</h3>
 
-<p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmanDesai10&count_bg=%233D81C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="AmanDesai10" style="margin-right: 10px;"/><a href="https://www.linkedin.com/in/amandesai10/" target="blank"><img src="https://img.shields.io/badge/-amandesai10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandesai10&edge_flat=false" alt="amandesai10" /></a></p>
+<p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmanDesai10&count_bg=%233D81C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="AmanDesai10" style="margin-right: 10px;"/>  <a href="https://www.linkedin.com/in/amandesai10/" target="blank"><img src="https://img.shields.io/badge/-amandesai10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandesai10&edge_flat=false" alt="amandesai10" /></a></p>
 
 <p align="center">
 <!-- Typing svg -->
